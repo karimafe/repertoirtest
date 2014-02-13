@@ -9,6 +9,7 @@ public class classe1 {
     System.out.println("hello world");
     System.out.println("test branche1");
     System.out.println("test branche2");
+    System.out.println("test branche3");
 	}
 
 }
